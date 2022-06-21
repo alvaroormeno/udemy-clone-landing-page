@@ -2,12 +2,13 @@
 [
     {
         "id": "1",
-        "title": "Portfolio HTML CSS",
+        "title": "Portfolio HTML CSS JS",
         "username": "Jose Portilla",
         "vote": "4.8",
         "students": "(5,346)",
         "price": "$18.99",
-        "oldPrice": "$49.99"
+        "oldPrice": "$49.99",
+        "path": "../assets/img1.jpg"
     },
     {
         "id": "2",
@@ -16,7 +17,8 @@
         "vote": "4.9",
         "students": "(10,346)",
         "price": "$28.99",
-        "oldPrice": "$75.99"
+        "oldPrice": "$75.99",
+        "path": "../assets/img2.jpg"
     },
     {
         "id": "3",
@@ -25,16 +27,18 @@
         "vote": "4.7",
         "students": "(8,456)",
         "price": "$13.99",
-        "oldPrice": "$30.99"
+        "oldPrice": "$30.99",
+        "path": "../assets/img3.jpg"
     },
     {
         "id": "4",
-        "title": "Learn Python",
+        "title": "Learn JavaScript",
         "username": "The Codex",
         "vote": "4.1",
         "students": "(17,008)",
         "price": "$49.99",
-        "oldPrice": "$89.99"
+        "oldPrice": "$89.99",
+        "path": "../assets/img4.jpg"
     },
     {
         "id": "5",
@@ -43,6 +47,7 @@
         "vote": "4.2",
         "students": "(8,612)",
         "price": "$17.99",
-        "oldPrice": "$29.99"
+        "oldPrice": "$29.99",
+        "path": "../assets/img5.jpg"
     }
 ]

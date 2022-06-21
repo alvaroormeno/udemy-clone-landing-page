@@ -6,6 +6,9 @@ module.exports = {
   theme: {
     extend: {
       md: "891",
+      fontFamily: {
+        LibreBaskerville: ["Libre Baskerville", "serif"],
+      }
     },
   },
   plugins: [],
