@@ -5,7 +5,7 @@ module.exports = {
   ],
   theme: {
     extend: {
-      md: "891",
+      // md: "891",
     },
   },
   plugins: [],
