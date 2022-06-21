@@ -1,13 +1,13 @@
 import React from 'react'
 import {StarIcon} from "@heroicons/react/solid"
-import img2 from '../assets/img2.jpg'
+// import img2 from '../assets/img2.jpg'
 
 function Course({info}) {
   return (
 
     <div className='flex flex-col items-start space-y-[1px]'>
         <img 
-            src={img2} 
+            src={info.path} 
             alt=""
             className='h-32 w-full' 
         />
