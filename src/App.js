@@ -1,10 +1,16 @@
 
 import './App.css';
 
+import Navbar from './components/Navbar';
+import Courses from './components/Courses';
+import Main from './components/Main';
+
 function App() {
   return (
     <div>
-      <h1>lets go!</h1>
+      <Navbar></Navbar>
+      <Main></Main>
+      <Courses></Courses>
     </div>
   );
 }
