@@ -1,7 +1,7 @@
 import React from 'react'
 import Course from './Course'
 // Import data array with 5 object inside, each carrying information for the course component
-import data from '../data.json'
+import courseData from '../data.json'
 
 function Courses() {
   return (
@@ -27,9 +27,9 @@ function Courses() {
 
             {/* Mapping */}
             <div className='flex gap-4 flex-wrap lg:flex-nowrap'>
-                {data.map((item) => (
-                    <div className='h-60 w-60' key={item.id}>
-                        <Course item={item}/>
+                {courseData.map((data) => (
+                    <div className='h-60 w-60' key={data.id}>
+                        <Course info={data}/>
                     </div>
                 ))}
             </div>
