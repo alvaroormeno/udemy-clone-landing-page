@@ -1,12 +1,12 @@
 import React from 'react'
-import img1 from '../assets/img1.jpg'
+import img3 from '../assets/img3.jpg'
 import img2 from '../assets/img2.jpg'
 
 function Main() {
   return (
     <div className='w-full h-96 border border-gray-400 relative'>
         <img 
-            src={img1} 
+            src={img3} 
             alt="student working on laptop" 
             className='h-full w-full object-cover bg-no-repeat bg-bottom' 
         />
