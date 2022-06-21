@@ -7,7 +7,8 @@ function Course({info}) {
 
     <div className='flex flex-col items-start space-y-[1px]'>
         <img 
-            src={info.path} 
+            // src={info.path} 
+            src={process.env.PUBLIC_URL + `${info.path}`}
             alt=""
             className='h-32 w-full' 
         />

@@ -8,7 +8,7 @@
         "students": "(5,346)",
         "price": "$18.99",
         "oldPrice": "$49.99",
-        "path": "../assets/img1.jpg"
+        "path": "/assets/img1.jpg"
     },
     {
         "id": "2",
@@ -18,7 +18,7 @@
         "students": "(10,346)",
         "price": "$28.99",
         "oldPrice": "$75.99",
-        "path": "../assets/img2.jpg"
+        "path": "/assets/img2.jpg"
     },
     {
         "id": "3",
@@ -28,7 +28,7 @@
         "students": "(8,456)",
         "price": "$13.99",
         "oldPrice": "$30.99",
-        "path": "../assets/img3.jpg"
+        "path": "/assets/img3.jpg"
     },
     {
         "id": "4",
@@ -38,7 +38,7 @@
         "students": "(17,008)",
         "price": "$49.99",
         "oldPrice": "$89.99",
-        "path": "../assets/img4.jpg"
+        "path": "/assets/img4.jpg"
     },
     {
         "id": "5",
@@ -48,6 +48,6 @@
         "students": "(8,612)",
         "price": "$17.99",
         "oldPrice": "$29.99",
-        "path": "../assets/img5.jpg"
+        "path": "/assets/img5.jpg"
     }
 ]
