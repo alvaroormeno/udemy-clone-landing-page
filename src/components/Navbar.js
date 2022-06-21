@@ -19,8 +19,24 @@ function Navbar() {
                 className='bg-transparent text-sm outline-none'
             />
         </form>
-        <h3 className='hidden lg:block text:sm'>Udemy Business</h3>
-        <h3></h3>
+        <h3 className=' text-center hidden lg:block text-sm'>Udemy Business</h3>
+        <h3 className=' hidden lg:block   text-sm'>Teach on Udemy</h3>
+        <div className='flex'>
+            <SearchIcon className='h-6 w-6 text-gray-400 md:hidden'/>
+            <ShoppingCartIcon className='h-6 w-6'/>
+        </div>
+        <div className='hidden md:flex pr-4 space-x-4 justify-center'>
+            <button className='h-10 w-20 border-[1px] border-black text-sm font-bold hover:bg-[#F5F5F5]'>
+                Log in
+            </button>
+            <button className='h-10 w-20 border-[1px] border-black bg-black text-sm text-white font-bold'>
+                Sign up
+            </button>
+            <button className='border border-black w-10 flex items-center justify-center hover:bg-[#F5F5F5]'>
+                <GlobeAltIcon className='h-5 w-5'/>
+            </button>
+
+        </div>
     </div>
   )
 }
