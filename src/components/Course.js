@@ -28,7 +28,6 @@ function Course({info}) {
             <h3 className='text-black font-bold'>{info.price}</h3>
             <h3 className='text-gray-800 text-sm line-through'>{info.oldPrice}</h3>
         </div>
-        
     </div>
   )
 }
