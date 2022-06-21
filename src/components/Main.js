@@ -12,7 +12,7 @@ function Main() {
         />
         <div className='absolute h-40 w-[440px] bg-white shadow-lg top-12 left-8 p-4 flex flex-col items-start justify-center '>
             <h1 className='text-3xl font-bold mb-2'>Get there. From here.</h1>
-            <h3 className='text-xl'>Chart your path to success</h3>
+            <h3 className='text-xl'>Chart your path to success.</h3>
             <h3 className='text-xl'>Log in for limited-time savings on the latest topics</h3>
         </div>
     </div>
