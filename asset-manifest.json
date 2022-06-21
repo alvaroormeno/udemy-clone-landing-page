@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/udemy-clone-landing-page/static/css/main.10e45908.css",
+    "main.js": "/udemy-clone-landing-page/static/js/main.d8cab5a0.js",
+    "index.html": "/udemy-clone-landing-page/index.html",
+    "main.10e45908.css.map": "/udemy-clone-landing-page/static/css/main.10e45908.css.map",
+    "main.d8cab5a0.js.map": "/udemy-clone-landing-page/static/js/main.d8cab5a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10e45908.css",
+    "static/js/main.d8cab5a0.js"
+  ]
+}
